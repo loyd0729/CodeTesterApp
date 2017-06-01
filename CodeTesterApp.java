@@ -4,7 +4,7 @@
  * will also output the total, tax amount, grand
  * total, and average. 
  */
-package murach.test;
+package noob.test;
 
 public class CodeTesterApp {
 
